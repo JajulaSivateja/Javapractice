@@ -8,7 +8,7 @@ public class Shape1 {
 	  
 	    switch(shapeName){
 	      
-	       case "circle":
+	      case "circle":
 	          float pi = 3.14f;
 	          area = pi * dim1 * dim1 ;
 	          System.out.println("area of circle : "+area);
